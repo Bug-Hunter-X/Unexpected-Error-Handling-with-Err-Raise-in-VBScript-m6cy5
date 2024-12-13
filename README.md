@@ -1,0 +1,1 @@
+This example demonstrates a common issue in VBScript error handling. The provided `bug.vbs` script shows how using `Err.Raise` with a generic error number can make debugging difficult. The improved solution in `bugSolution.vbs` provides a better approach to error handling.
